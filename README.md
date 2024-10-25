@@ -4,5 +4,5 @@ This is the logs of Emma's bakery! I'll try to update the logs as soon as I can.
 | Tags        | Bread type 	| Flour type         	| Mode 	| Size 	| Crust 	| Variation 	| Attempt 	             |
 |-----------: |-----------:	|--------------------	|------	|:----:	|-------	|----------:	|---------	             |
 |Vegan/Vegetarian	|[French](French)|Patent white wheat    |     	|     	  |           	|           |            |         	             
-|            	|            	|                    	|  2 	  |  S    |  2      |[Normal](French/Normal)  |[1](French/Normal/1.md) |
-|            	|            	|                    	|      	|      	|       	|           	|                     	|
+|            	|            	|                    	|  2 	  |  S    |  2      |[Normal](French/Normal)  |[1](French/Normal/1.md)|
+|            	|            	|                    	|  2   	|  S   	|  3    	|[Garlic](French/Garlic)  |[1](French/Garlic/1.md)|
