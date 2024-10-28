@@ -5,4 +5,4 @@ This is the logs of Emma's bakery! I'll try to update the logs as soon as I can.
 |-----------: |-----------:	|--------------------	|------	|:----:	|-------	|----------:	|---------	             |
 |Vegan/Vegetarian	|[French](French)|Patent white wheat    |     	|     	  |           	|           |            |         	             
 |            	|            	|                    	|  2 	  |  S    |  2      |[Normal](French/Normal)  |[1](French/Normal/1.md)|
-|            	|            	|                    	|  2   	|  S   	|  3    	|[Garlic](French/Garlic)  |[1](French/Garlic/1.md)|
+|            	|            	|                    	|  2   	|  S   	|  3    	|[Garlic-Cheddar](French/Garlic-cheddar)  |[1](French/Garlic-cheddar/1.md)|
